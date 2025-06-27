@@ -110,20 +110,11 @@ python app.py
 Then open your browser and visit:  
 [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
----
 
-## 📸 Screenshots
 
-<!-- Add UI screenshots here -->
+## 🧑‍💻 Author
 
----
-
-## 🧑‍💻 Authors
-
-- Bollepalli Manikanta (Team Leader)  
-- Jammanamgadda Nagaveni  
 - Devalla Dinesh  
-- Shaik Kowsar  
 
 Project done under the **SmartInternz Virtual Internship Program 2025** at RISE Krishna Sai Gandhi Group of Institutions.
 
